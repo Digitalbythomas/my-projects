@@ -29,6 +29,7 @@ In this endeavor, I delved deep into an interactive data dashboard, seeking patt
 The heart of this project lies in the NYSE dataset, encompassing pivotal financial performance metrics. My journey involved navigating through this dense financial terrain, crafting a coherent income statement, and generating potent financial metrics that could be instrumental in future financial analyses or investment strategies.
 
 **Key Technologies & Tools Used:** 
+- SQL (for querying and data manipulation)
 - Excel (for crafting income statements and financial metrics)
 - Data Visualization Tools (for initial data exploration)
 
