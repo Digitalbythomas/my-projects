@@ -4,9 +4,9 @@ This repository showcases the projects I've completed as part of the Udacity Nan
 
 ## Table of Contents
 
-- [Project #1: Interpret a Data Visualization]
-- [Project #2: Analyze NYSE Data]
-- [Project #3: Build Data Dashboards]
+- Project #1: Interpret a Data Visualization
+- Project #2: Analyze NYSE Data
+- Project #3: Build Data Dashboards
 
 ### Project #1: Interpret a Data Visualization
 
