@@ -52,4 +52,8 @@ Each project folder is replete with individualized instructions and prerequisite
 
 ## Feedback and Contributions
 
+<<<<<<< HEAD
 While this repository is primarily a testament to my learning journey in Business Analytics, feedback is invaluable. If you have suggestions, critiques, or insights, do share. Feel free to fork this repository or pitch in with pull requests.
+=======
+While this repository is primarily a testament to my learning journey in Business Analytics, feedback is invaluable. If you have suggestions, critiques, or insights, do share. Feel free to fork this repository or pitch in with pull requests.
+>>>>>>> origin/main
