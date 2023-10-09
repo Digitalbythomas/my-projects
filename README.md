@@ -15,7 +15,10 @@ This repository showcases the projects I've completed as part of the Udacity Nan
 **Description:** 
 In this endeavor, I delved deep into an interactive data dashboard, seeking patterns, anomalies, and points of interest. The main objective was to derive actionable insights and craft a concise report that presents each insight with clarity.
 
-**Key Technologies & Tools Used:** 
+**Key Technologies & Tools Used:**
+- https://public.tableau.com/app/profile/matt.chambers/viz/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday
+- https://blog.linkedin.com/2016/10/20/top-skills-2016-week-of-learning-linkedin
+- Data Visualization Tools (for initial data exploration)
 
 
 ### Project #2: Analyze NYSE Data
